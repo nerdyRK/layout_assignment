@@ -1,0 +1,7 @@
+.rotated {
+  transform: rotate(90deg);
+}
+
+.btn {
+  background: linear-gradient(to left, rgb(71, 85, 236), blue);
+}
